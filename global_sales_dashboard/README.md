@@ -13,6 +13,8 @@ claim_dashboard/
 
 ├── REPORT_global_sales (.pbix file)
 
+Another version of this dashboard I build by Looker Studio: [Link](https://datastudio.google.com/reporting/66755b52-7b11-4acd-a1c1-15cf6d64f6ea)
+
 ---
 
 ## 📝 Report Contents
