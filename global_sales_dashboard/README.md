@@ -13,6 +13,9 @@ claim_dashboard/
 
 ├── REPORT_global_sales (.pbix file)
 
+Report preview:
+<img width="1436" height="762" alt="image" src="https://github.com/user-attachments/assets/44c013e4-d519-423f-9376-77ade6f7ba12" />
+
 Another version of this dashboard I build by Looker Studio: [Link](https://datastudio.google.com/reporting/66755b52-7b11-4acd-a1c1-15cf6d64f6ea)
 
 ---
