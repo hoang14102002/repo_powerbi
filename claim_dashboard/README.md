@@ -12,8 +12,9 @@ claim_dashboard/
 ├── dataset/ # Contains report datasets
 
 ├── REPORT_Claim_insurance (.pbix file)
-
 ---
+Report preview:
+<img width="1658" height="773" alt="image" src="https://github.com/user-attachments/assets/87457379-3463-4e3c-b6a2-0c76ce1384cd" />
 
 ## 📝 Report Contents
 
