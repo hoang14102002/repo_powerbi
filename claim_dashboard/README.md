@@ -14,7 +14,9 @@ claim_dashboard/
 ├── REPORT_Claim_insurance (.pbix file)
 ---
 Report preview:
-<img width="1658" height="773" alt="image" src="https://github.com/user-attachments/assets/87457379-3463-4e3c-b6a2-0c76ce1384cd" />
+<img width="1638" height="819" alt="image" src="https://github.com/user-attachments/assets/0c39f2fc-f693-40cf-a63f-951540691ef2" />
+
+Live report: [Link](https://app.powerbi.com/view?r=eyJrIjoiMTY0ODJlNmMtNjdjMy00OGY5LWEyMWUtYWFhYzNjNjY5YjQ0IiwidCI6IjM3MGZiM2I4LTMzMDYtNDg5MC05MDYzLWNjMDhiZTc4ODI1NyIsImMiOjEwfQ%3D%3D)
 
 ## 📝 Report Contents
 
