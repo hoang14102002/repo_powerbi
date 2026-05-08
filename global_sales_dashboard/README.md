@@ -14,7 +14,7 @@ claim_dashboard/
 ├── REPORT_global_sales (.pbix file)
 
 Report preview:
-<img width="1436" height="762" alt="image" src="https://github.com/user-attachments/assets/44c013e4-d519-423f-9376-77ade6f7ba12" />
+<img width="1458" height="842" alt="image" src="https://github.com/user-attachments/assets/7d74ab27-639e-4e5c-9034-09dca0ae6ddc" />
 
 Live report: [Link](https://app.powerbi.com/view?r=eyJrIjoiZDljN2I3ZmYtNTZlMS00YmIxLWFmZDctMWU1MjM0MWE1MmY2IiwidCI6IjM3MGZiM2I4LTMzMDYtNDg5MC05MDYzLWNjMDhiZTc4ODI1NyIsImMiOjEwfQ%3D%3D)
 
