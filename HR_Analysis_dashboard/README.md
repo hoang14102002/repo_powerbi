@@ -16,9 +16,9 @@ HR_Analysis_dashboard/
 ├── Theme.json/ # Theme of this dashboard
 
 Report preview:
-<img width="1496" height="802" alt="image" src="https://github.com/user-attachments/assets/65241014-cc47-47e8-98d6-4caeb30e11cf" />
+<img width="1675" height="895" alt="image" src="https://github.com/user-attachments/assets/c980654a-4481-42f5-b8f5-4d0ff5ac674c" />
 
-Live report: [Link](https://app.powerbi.com/view?r=eyJrIjoiOTJiNmRmMTItNWU5YS00ZjIyLTk3NDEtZGNiN2IwOTI3ZWQxIiwidCI6IjM3MGZiM2I4LTMzMDYtNDg5MC05MDYzLWNjMDhiZTc4ODI1NyIsImMiOjEwfQ%3D%3D)
+Live report: [Link](https://app.powerbi.com/view?r=eyJrIjoiYjg1N2IyZjQtZDc0NS00NjM1LWI1OWYtYTJkNDE0NjNjNjBlIiwidCI6IjM3MGZiM2I4LTMzMDYtNDg5MC05MDYzLWNjMDhiZTc4ODI1NyIsImMiOjEwfQ%3D%3D&pageName=73f8197a222878b522af)
 
 ## 📝 Report Contents
 
